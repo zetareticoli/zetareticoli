@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi, I'm Francesco 
+
+I'm a Product Designer and CSS+Sass Expert.  
+
+Actually I'm **Head of Design** at [Citynews](https://www.citynews.it), a digital publisher here in Italy.
+
+Back in 2010 I fouded **Robodomain**, a software company focused on domains management. In 2013 [DNSimple acquired](https://blog.dnsimple.com/2012/09/dnsimple-acquires-robodomain/) and integrated the software in their product suite. It was such a exciting, difficult but beautiful experience.
+
+Occasionally I write and talk about design methodologies, workflow and tools at conferences and events. I'm lecturer at **UXUniversity** having a [full-day workshop](https://www.uxuniversity.it/11/c_13/design-systems) about **Design Systems and Atomic Design**.
 
 <!--
 **zetareticoli/zetareticoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
