@@ -2,7 +2,7 @@
 
 I'm a Product Designer and CSS+Sass Expert.  
 
-Actually I'm **Senior Product Designer** at @teamdigitale
+Actually I'm **Senior Product Designer** at [@teamdigitale](https://github.com/teamdigitale)
 
 Back in 2010 I fouded **Robodomain**, a software company focused on domains management. In 2013 [DNSimple acquired](https://blog.dnsimple.com/2012/09/dnsimple-acquires-robodomain/) and integrated the software in their product suite. It was such a exciting, difficult but beautiful experience.
 
