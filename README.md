@@ -18,7 +18,7 @@ Occasionally I write and talk about design methodologies, workflow and tools at 
 
 ### ⚡️ Sponsors
 
-@reubenwalker64
+[@reubenwalker64](https://github.com/reubenwalker64)
 
 <!--
 **zetareticoli/zetareticoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
