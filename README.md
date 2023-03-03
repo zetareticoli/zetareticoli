@@ -1,12 +1,12 @@
 # Hi, I'm Francesco 
 
-I'm a Senior Product Designer(UX/UI) and CSS + Sass Expert.  
+I'm a designer currently working as a **Senior Product Designer** at the [@teamdigitale](https://github.com/teamdigitale) ( the Italian Department for Digital Transformation).
 
-Actually I'm **Senior Product Designer** at [@teamdigitale](https://github.com/teamdigitale).
+For the past 15 years, I've worked as a digital designer for various companies, ranging from large organizations to small startups, leading teams and projects.
 
-Back in 2010 I co-fouded **Robodomain**, a software company focused on domains management. In 2013 [DNSimple acquired](https://blog.dnsimple.com/2012/09/dnsimple-acquires-robodomain/) and integrated the software in their product suite. It was such a exciting, difficult but beautiful experience.
+In 2010, I co-founded Robodomain, a software company that created tools and apps for domain management.
 
-Occasionally I write and talk about design methodologies, workflow and tools at conferences and events. I'm lecturer at **UXUniversity** having a [full-day workshop](https://www.uxuniversity.it/11/c_13/design-systems) about **Design Systems and Atomic Design**.
+As someone who is passionate about design and coding, I'm always excited to take on new challenges and create something truly amazing.
 
 ### 📫 How to reach me
 
