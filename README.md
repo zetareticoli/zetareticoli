@@ -9,10 +9,13 @@ In 2010, I co-founded Robodomain, a software company that develops tools and app
 
 With a passion for design and coding, I am always eager to embrace new challenges and create something truly extraordinary.
 
+### 🚀 Products
+**[Design Tokens Manager](https://zetareticoli.gumroad.com/l/design-tokens-manager)** — Effortless design tokens management in Notion
+
 ### 📫 How to reach me
 
-[Blog](https://francescoimprota.com/blog/) -
-[Twitter](https://twitter.com/zetareticoli) -
+[Blog](https://francescoimprota.com/writing/) -
+[X](https://twitter.com/zetareticoli) -
 [CodePen](https://codepen.io/zetareticoli) - 
 [DEV](https://dev.to/zetareticoli) - 
 [Medium](https://medium.com/@zetareticoli)
