@@ -13,8 +13,8 @@ With a passion for design and coding, I am always eager to embrace new challenge
 **[Design Tokens Manager](https://zetareticoli.gumroad.com/l/design-tokens-manager)** — Effortless design tokens management in Notion
 
 ### 🚀 Newsletters
-**[Design Tokens Pills]**(https://designtokens.substack.com)
-**[Designabile]**(https://designabile.substack.com) 🇮🇹
+**[Design Tokens Pills](https://designtokens.substack.com)**
+**[Designabile](https://designabile.substack.com)** 🇮🇹
 
 ### 📫 How to reach me
 
