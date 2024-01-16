@@ -14,6 +14,7 @@ With a passion for design and coding, I am always eager to embrace new challenge
 
 ### 🚀 Newsletters
 **[Design Tokens Pills](https://designtokens.substack.com)**
+
 **[Designabile](https://designabile.substack.com)** 🇮🇹
 
 ### 📫 How to reach me
