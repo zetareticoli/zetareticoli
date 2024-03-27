@@ -12,12 +12,12 @@ With a passion for design and coding, I am always eager to embrace new challenge
 ### 🚀 Products
 **[Design Tokens Manager](https://zetareticoli.gumroad.com/l/design-tokens-manager)** — Effortless design tokens management in Notion
 
-### 🚀 Newsletters
+### 📮 Newsletters
 **[Design Tokens Pills](https://designtokens.substack.com)**
 
 **[Designabile](https://designabile.substack.com)** 🇮🇹
 
-### 📫 How to reach me
+### 🙌 How to reach me
 
 [Blog](https://francescoimprota.com/writing/) -
 [X](https://twitter.com/zetareticoli) -
