@@ -11,6 +11,7 @@ With a passion for design and coding, I am always eager to embrace new challenge
 
 ### 🚀 Products
 **[Design Tokens Manager](https://zetareticoli.gumroad.com/l/design-tokens-manager)** — Effortless design tokens management in Notion
+
 **[Design Tokens Pro](https://designtokens.pro)** — A digital course to master design tokens
 
 ### 📮 Newsletters
