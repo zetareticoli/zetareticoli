@@ -14,6 +14,8 @@ With a passion for design and coding, I am always eager to embrace new challenge
 
 **[Design Tokens Pro](https://designtokens.pro)** — A digital course to master design tokens
 
+**[CSSUI](https://cssui.dev)** - A front-end library of interactive components in pure CSS
+
 ### 📮 Newsletters
 **[Design Tokens Pills](https://designtokens.substack.com)**
 
