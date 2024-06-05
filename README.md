@@ -31,7 +31,8 @@ With a passion for design and coding, I am always eager to embrace new challenge
 
 ### ⚡️ Sponsors
 
-[@reubenwalker64](https://github.com/reubenwalker64)
+[Become a sponsor](https://github.com/sponsors/zetareticoli)
+
 
 <!--
 **zetareticoli/zetareticoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
