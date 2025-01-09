@@ -1,13 +1,12 @@
 # Hi, I'm Francesco 
 
-I am currently employed as a Senior Product Designer at @teamdigitale, Italy's Department for Digital Transformation. 
+I am a Senior Product Designer at @teamdigitale, Italy's Department for Digital Transformation. 
 
 My role involves curating the **Italian Government Design System** and designing services to improve the **citizen** **experience**.
 
-Over the past 15 years, I have acted as a digital designer for diverse companies, from large organizations to small startups, leading teams and projects.
-In 2010, I co-founded Robodomain, a software company that develops tools and apps for domain management.
+Over the past 15 years, I have worked as a digital designer for diverse companies, from large organizations to small startups, leading teams and projects.
 
-With a passion for design and coding, I am always eager to embrace new challenges and create something truly extraordinary.
+With a passion for design and coding, I am always eager to embrace new challenges and create something extraordinary.
 
 ### 🚀 Products
 **[Design Tokens Manager](https://zetareticoli.gumroad.com/l/design-tokens-manager)** — Effortless design tokens management in Notion
