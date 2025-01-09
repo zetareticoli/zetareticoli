@@ -1,8 +1,8 @@
 # Hi, I'm Francesco 
 
-I am a Senior Product Designer at @italia, Italy's Department for Digital Transformation. 
+I serve as Senior Product Designer for the Italian Department for Digital Transformation. 
 
-My role involves curating the **Italian Government Design System** and designing services to improve the **citizen** **experience**.
+My role involves curating the **Italian Government Design System** and designing products to improve the **citizen** **experience**.
 
 Over the past 15 years, I have worked as a digital designer for diverse companies, from large organizations to small startups, leading teams and projects.
 
