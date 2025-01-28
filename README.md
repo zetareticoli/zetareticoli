@@ -25,7 +25,7 @@ With a passion for design and coding, I am always eager to embrace new challenge
 [Blog](https://francescoimprota.com/writing/) -
 [X](https://twitter.com/zetareticoli) -
 [CodePen](https://codepen.io/zetareticoli) - 
-[DEV](https://dev.to/zetareticoli) - 
+[DEV](https://dev.to/zetareticoli) 
 
 ### ⚡️ Sponsors
 
