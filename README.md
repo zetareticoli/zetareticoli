@@ -26,7 +26,6 @@ With a passion for design and coding, I am always eager to embrace new challenge
 [X](https://twitter.com/zetareticoli) -
 [CodePen](https://codepen.io/zetareticoli) - 
 [DEV](https://dev.to/zetareticoli) - 
-[Medium](https://medium.com/@zetareticoli)
 
 ### ⚡️ Sponsors
 
