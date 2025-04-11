@@ -11,9 +11,10 @@ With a passion for design and coding, I am always eager to embrace new challenge
 ### 🚀 Products
 **[Design Tokens Manager](https://zetareticoli.gumroad.com/l/design-tokens-manager)** — Effortless design tokens management in Notion
 
-**[Design Tokens Pro](https://designtokens.pro)** — A digital course to master design tokens
-
 **[CSSUI](https://cssui.dev)** - A front-end library of interactive components in pure CSS
+
+### 👨‍🏫 Courses
+**[Design Tokens Pro](https://designtokens.pro)** — A digital course to master design tokens
 
 ### 📮 Newsletters
 **[Design Tokens Pills](https://designtokens.substack.com)**
