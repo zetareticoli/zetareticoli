@@ -17,9 +17,7 @@ With a passion for design and coding, I am always eager to embrace new challenge
 **[Design Tokens Pro](https://designtokens.pro)** — A digital course to master design tokens
 
 ### 📮 Newsletters
-**[Design Tokens Pills](https://designtokens.substack.com)**
-
-**[Designabile](https://designabile.substack.com)** 🇮🇹
+**[Design Tokens Pills](https://designtokens.substack.com)** - **[Designabile](https://designabile.substack.com)**
 
 ### 🙌 How to reach me
 
