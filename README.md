@@ -28,7 +28,7 @@ With a passion for design and coding, I am always eager to embrace new challenge
 
 ### ⚡️ Sponsors
 
-[Become a sponsor](https://github.com/sponsors/zetareticoli)
+[Sponsor my work](https://github.com/sponsors/zetareticoli)
 
 
 <!--
