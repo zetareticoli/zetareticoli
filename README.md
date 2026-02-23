@@ -10,6 +10,8 @@ Over the past 15 years, I have worked as a digital designer for diverse companie
 With a passion for design and coding, I am always eager to embrace new challenges and create something extraordinary.
 
 ### 🚀 Products
+**[TokenLens](https://tokenlens.app)** — Analyze design tokens usage in CSS files
+
 **[Design Tokens Manager](https://zetareticoli.gumroad.com/l/design-tokens-manager)** — Effortless design tokens management in Notion
 
 **[CSSUI](https://cssui.dev)** - A front-end library of interactive components in pure CSS
