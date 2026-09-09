@@ -1,13 +1,14 @@
 # Hi, I'm Francesco 
 
-I'm a Product Designer who codes.
+Design Technologist with 15+ years of experience building and leading
+scalable UI platforms for complex, multi-team environments.
 
-Actually working for the Italian Department for Digital Transformation. 
-My role involves curating the **Italian Government Design System** and designing products to improve the **citizen** **experience**.
+I help organizations establish design systems as infrastructure, aligning design
+and front-end architecture to enable consistency, speed, and long-term
+maintainability. My focus is on system thinking, governance, and reducing
+organizational friction at scale.
 
-Over the past 15 years, I have worked as a digital designer for diverse companies, from large organizations to small startups, leading teams and projects.
-
-With a passion for design and coding, I am always eager to embrace new challenges and create something extraordinary.
+I write, teach, and speak about product design and design systems.
 
 ### 🚀 Products
 **[TokenLens](https://tokenlens.app)** — Analyze design tokens usage in CSS files
