@@ -1,12 +1,13 @@
 # Hi, I'm Francesco 
 
-Design Technologist with 15+ years of experience building and leading
+Design Technologist with 18+ years of experience building and leading
 scalable UI platforms for complex, multi-team environments.
 
 I help organizations establish design systems as infrastructure, aligning design
 and front-end architecture to enable consistency, speed, and long-term
-maintainability. My focus is on system thinking, governance, and reducing
-organizational friction at scale.
+maintainability. 
+
+My focus is on system thinking, governance, and reducing organizational friction at scale.
 
 I write, teach, and speak about product design and design systems.
 
