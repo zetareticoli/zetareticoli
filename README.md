@@ -1,6 +1,6 @@
 # Hi, I'm Francesco 
 
-Design Technologist with 18+ years of experience building and leading
+Design Lead and Engineer with 18+ years of experience building and leading
 scalable UI platforms for complex, multi-team environments.
 
 I help organizations establish design systems as infrastructure, aligning design
